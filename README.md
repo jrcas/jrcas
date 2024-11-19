@@ -60,6 +60,6 @@
 </table>
 
 <br>
-<center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrcas&show_icons=true&locale=en&layout=compact" alt="jrcas" />
-</center>
+<p align="center" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrcas&show_icons=true&locale=en&layout=compact" alt="jrcas" />
+</p>
