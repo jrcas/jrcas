@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Castillo</h1>
+<h1 align="center">Hi, nice to meet you! I'm Rodrigo Castillo: A Data Enthusiast</h1>
 
 <h3 align="center">I'm a Data enthusiast who loves to explore new ideas and continuously learn. Whether it's diving into a new dataset or experimenting with technologies, I enjoy unraveling insights and building innovative solutions. I pride myself on being sharp, quick to adapt, and always ready to tackle new challenges. I have a solid foundation in: SQL, Python, R, PowerBI, PyTorch, AWS (and more!). I'm always open to discussing exciting opportunities where I can show my skills and grow as a professional.</h3>
 
@@ -8,16 +8,16 @@
 </p>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
-<table border="1" style="text-align: center; border-collapse: collapse;">
+<table align="center">
   <tr>
-    <th style="text-align:center;">Programming Languages</th>
-    <th style="text-align:center;">Data Manipulation</th>
-    <th style="text-align:center;">Visualization</th>
-    <th style="text-align:center;">Data Science</th>
-    <th style="text-align:center;">Databases</th>
-    <th style="text-align:center;">DevOps and Cloud</th>
+    <th>Programming Languages</th>
+    <th>Data Manipulation</th>
+    <th>Visualization</th>
+    <th>Data Science</th>
+    <th>Databases</th>
+    <th>DevOps and Cloud</th>
   </tr>
-  <tr align="center">
+  <tr>
     <td>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
         <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="sql" width="40" height="40"/></a>
