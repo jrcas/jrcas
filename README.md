@@ -17,7 +17,7 @@
     <th>Databases</th>
     <th>DevOps and Cloud</th>
   </tr>
-  <tr>
+  <tr align="center>
     <td>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
         <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="sql" width="40" height="40"/></a>
