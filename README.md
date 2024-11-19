@@ -1,4 +1,4 @@
-<h1 align="center">Hi, nice to meet you! I'm Rodrigo Castillo: A Data Enthusiast</h1>
+ <h1 align="center">Hi, nice to meet you! I'm Rodrigo Castillo: A Data Enthusiast</h1>
 
 <h3 align="center">I'm a Data enthusiast who loves to explore new ideas and continuously learn. Whether it's diving into a new dataset or experimenting with technologies, I enjoy unraveling insights and building innovative solutions. I pride myself on being sharp, quick to adapt, and always ready to tackle new challenges. I have a solid foundation in: SQL, Python, R, PowerBI, PyTorch, AWS (and more!). I'm always open to discussing exciting opportunities where I can show my skills and grow as a professional.</h3>
 
@@ -59,4 +59,7 @@
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrcas&show_icons=true&locale=en&layout=compact" alt="jrcas" /></p>
+<br>
+<center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrcas&show_icons=true&locale=en&layout=compact" alt="jrcas" />
+</center>
