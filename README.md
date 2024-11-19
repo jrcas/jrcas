@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
-<table border="4" style="text-align: center; border-collapse: collapse;">
+<table border="1" style="text-align: center; border-collapse: collapse;">
   <tr>
     <th style="text-align:center;">Programming Languages</th>
     <th style="text-align:center;">Data Manipulation</th>
